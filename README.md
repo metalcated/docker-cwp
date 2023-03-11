@@ -1,2 +1,2 @@
-# docker-centos-cwp
-Configuration files for brunobertechini/centos-cwp docker image
+# docker-cwp
+Configuration files for centos-cwp docker image
